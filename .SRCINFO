@@ -1,7 +1,7 @@
 pkgbase = picom
 	pkgdesc = X compositor (fork of compton) (git-version)
-	pkgver = 604.0
-	pkgrel = 431
+	pkgver = 431.0
+	pkgrel = 604
 	url = https://github.com/yshui/picom
 	arch = i686
 	arch = x86_64
