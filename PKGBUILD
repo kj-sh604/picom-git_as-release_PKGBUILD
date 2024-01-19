@@ -4,8 +4,8 @@
 
 pkgname=picom
 _gitname=picom
-pkgver=10.2
-pkgrel=604
+pkgver=604.0
+pkgrel=431
 pkgdesc="X compositor (fork of compton) (git-version)"
 arch=(i686 x86_64)
 url="https://github.com/yshui/${_gitname}"
